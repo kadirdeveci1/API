@@ -1,0 +1,4 @@
+requests
+flask-restful
+flask
+pandas
